@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Front End Jetpack Compose</string>
+    <string name="home_screen">Home</string>
+    <string name="gallery_screen">Gallery</string>
+    <string name="profile_screen">Profile</string>
+    <string name="detail_screen">Detail</string>
+</resources>
